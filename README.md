@@ -5,5 +5,9 @@ For contributors
 ## BST
  - basics - python
 
- ## BTree
+## BTree
  - basics - python
+
+## misc
+ - 3 Sum Closest
+ - longest substring
