@@ -11,6 +11,9 @@ For contributors
 ## misc
  - 3 Sum Closest
  - longest substring
+ - cutTheStic
+ - PdfHighlighter
+ - TheTimeInWords
 
 ## Stack
  - basics - python
