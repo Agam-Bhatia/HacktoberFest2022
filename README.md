@@ -4,3 +4,6 @@ For contributors
 
 ## BST
  - basics - python
+
+ ## BTree
+ - basics - python
