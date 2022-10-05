@@ -11,3 +11,6 @@ For contributors
 ## misc
  - 3 Sum Closest
  - longest substring
+
+## Stack
+ - basics - python
